@@ -18,13 +18,13 @@ a n1xn1 matrix of specified correlations.
 }
 }
 \details{
-Calculations are done by combining the methods described in Yahav and Shumeli (2012) and Amatya and Demirtas (2015). 
+Calculations are done by combining the methods described in Yahav and Shumeli (2012) and Amatya and Demirtas (2017). 
 }
 \value{
 Returns an intermediate matrix of size n1xn1.
 }
 \references{
-Amatya, A. and Demirtas, H. (2015). PoisNor: An R package for simultaneous generation of multivariate data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, (in press). 
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
 
 Yahav, I. and Shmueli, G. (2012). On generating multivariate poisson data in management science applications. Applied Stochastic Models in Business and Industry, 28(1), 91-102.
 }

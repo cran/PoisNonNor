@@ -1,4 +1,4 @@
-7b0fefe40805e58cbd38dadfa127f0b9 *DESCRIPTION
+c0f7a12f82a42499811dd4dbd36c5ebc *DESCRIPTION
 a3b6e9a6e31e179aa06a5e6ad09f79a7 *NAMESPACE
 eb97d17cfab257720853a93511fb7d1b *R/Param.fleishman.R
 4710aac47a0721141a0e44748dfc45e8 *R/PoisNonNor-internal.R
@@ -12,15 +12,15 @@ c4f8ca9d36f99f8378bfaee6250c787c *R/bounds.corr.GSC.PP.R
 40cea8f634b7d4b9d75592d50ae13555 *R/intercor.NNP.R
 c05e10398ddf93231327a474ef9a06ab *R/intercor.PP.R
 7ac8865da887456b50d8adf72686b542 *R/intercor.all.R
-e9acb0f774cda4c0def36d4366d45224 *man/Param.fleishman.Rd
-d22b648e9898f815ae51054cb444b145 *man/PoisNonNor-package.Rd
-8bba48966b366b4c13ca28bcd2b5e8e4 *man/RNG_P_NN.Rd
+584f87b4704cc84774b8e7c9f904bab4 *man/Param.fleishman.Rd
+bbe42b04c0de5f4b6cca9cb250ee2b27 *man/PoisNonNor-package.Rd
+66f7148f9d4235a8ec92b2f8377a26b4 *man/RNG_P_NN.Rd
 5a2a9994226d7fd027f6d3e5f0a4066d *man/Validate.correlation.Rd
 3036517bd23cc709e80446138322b56e *man/bounds.corr.GSC.NN.Rd
 152e1526e76e518a2f1b9544c8c56760 *man/bounds.corr.GSC.NNP.Rd
 435bb1271c17b6dfca796eab7f284c2f *man/bounds.corr.GSC.PP.Rd
-aba249c8e55f43a3b7ae5530b392cf67 *man/fleishman.roots.Rd
+a466173416805807721da383189280cc *man/fleishman.roots.Rd
 4182a09b8a7014ff9d14a07e8b627f79 *man/intercor.NN.Rd
-875bfbaf0c4c322b0daca831be4e5c29 *man/intercor.NNP.Rd
-40eeabb47509e7a2acbdec8390893693 *man/intercor.PP.Rd
+b45427d17117690dbbf1579843e0cb07 *man/intercor.NNP.Rd
+e6f9b497f1659688ced173fa67607699 *man/intercor.PP.Rd
 72f6eda9eb661c530e6dfd41e5b097a3 *man/intercor.all.Rd

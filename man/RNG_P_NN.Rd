@@ -35,13 +35,13 @@ variance vector for continuous variables of length n2
 Returns a data matrix of size norowx(n1+n2). By design, the first n1 variables are count, and the last n2 variables are continuous. 
 }
 \references{
-Amatya, A. and Demirtas, H. (2015). PoisNor: An R package for simultaneous generation of multivariate data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, (in press). 
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
 
 Demirtas, H. and Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, 65(2):104-109.
 
 Demirtas, H., Hedeker, D. and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.  
 
-Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43, 521-532.
+Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43(4), 521-532.
 
 Vale, C.D. and Maurelli, V.A. (1983). Simulating multivariate nonnormal distributions. Psychometrika, 48(3), 465-471. 
 

@@ -21,7 +21,7 @@ a n2x4 matrix where each row includes the four coefficients (a,b,c,d) of the Fle
 }
 }
 \details{
-Calculations are done by combining the methods described in Demirtas, Hedeker and Mermelstein (2012) and Amatya and Demirtas (2015).
+Calculations are done by combining the methods described in Demirtas, Hedeker and Mermelstein (2012) and Amatya and Demirtas (2017).
 }
 
 \value{
@@ -29,7 +29,7 @@ Returns an intermediate correlation matrix of size n1 x n2
 }
 
 \references{
-Amatya, A. and Demirtas, H. (2015). PoisNor: An R package for simultaneous generation of multivariate data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, (in press). 
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
 
 Demirtas, H., Hedeker, D. and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346. 
 }

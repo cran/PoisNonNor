@@ -20,7 +20,7 @@ a n2x2 matrix that includes skewness and kurtosis values for each continuous var
 Returns a matrix of size n2x4 where rows and columns represent variables and coefficients, respectively. 
 }
 \references{
-Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43, 521-532.
+Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43(4), 521-532.
 }
 \examples{
 \dontrun{

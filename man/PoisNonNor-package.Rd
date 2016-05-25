@@ -12,9 +12,9 @@ A package for simulating multivariate data with count and continuous variables w
 \tabular{ll}{
 Package: \tab PoisNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2015-01-30\cr
-License: \tab GPL(>=2)\cr
+Version: \tab 1.1\cr
+Date: \tab 2016-05-24\cr
+License: \tab GPL-2 | GPL-3\cr
 }
 This package consists of eleven functions. 
 
@@ -23,16 +23,16 @@ The functions \code{\link{bounds.corr.GSC.NN}}, \code{\link{bounds.corr.GSC.NNP}
 n1, n2, and n=n1+n2 stand for the number of count, continuous, and the total number of the variables, respectively. By design, the first n1 variables are count, and the last n2 variables are continuous in the generated data matrix.
 }
 \author{
-Yaru Shi, Hakan Demirtas
+Hakan Demirtas, Yaru Shi, Rawan Allozi
 
-Maintainer: Yaru Shi <yshi31@uic.edu>
+Maintainer: Rawan Allozi <ralloz2@uic.edu>
 }
 \references{
-Amatya, A. and Demirtas, H. (2015). PoisNor: An R package for simultaneous generation of multivariate data with Poisson and normal marginals. Journal of Statistical Computation and Simulation, (in press). 
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
 
 Demirtas, H., Hedeker, D. and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.  
 
-Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43, 521-532.
+Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43(4), 521-532.
 
 Vale, C.D. and Maurelli, V.A. (1983). Simulating multivariate nonnormal distributions. Psychometrika, 48(3), 465-471. 
 }

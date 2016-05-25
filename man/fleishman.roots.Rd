@@ -19,7 +19,7 @@ a vector of length two that contains skewness and kurtosis values.
 }
 }
 \references{
-Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43, 521-532.
+Fleishman A.I. (1978). A method for simulating non-normal distributions. Psychometrika, 43(4), 521-532.
 }
 \seealso{
 \code{\link{Param.fleishman}}
