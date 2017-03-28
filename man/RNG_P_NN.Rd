@@ -35,7 +35,7 @@ variance vector for continuous variables of length n2
 Returns a data matrix of size norowx(n1+n2). By design, the first n1 variables are count, and the last n2 variables are continuous. 
 }
 \references{
-Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Communications in Statistics--Simulation and Computation, 46(3), 2241-2253.
 
 Demirtas, H. and Hedeker, D. (2011). A practical way for computing approximate lower and upper correlation bounds. The American Statistician, 65(2):104-109.
 

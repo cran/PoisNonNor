@@ -12,8 +12,8 @@ A package for simulating multivariate data with count and continuous variables w
 \tabular{ll}{
 Package: \tab PoisNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.2\cr
-Date: \tab 2017-01-25\cr
+Version: \tab 1.3\cr
+Date: \tab 2017-03-28\cr
 License: \tab GPL-2 | GPL-3\cr
 }
 This package consists of eleven functions. 
@@ -28,7 +28,7 @@ Hakan Demirtas, Yaru Shi, Rawan Allozi
 Maintainer: Rawan Allozi <ralloz2@uic.edu>
 }
 \references{
-Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Communications in Statistics--Simulation and Computation, 46(3), 2241-2253.
 
 Demirtas, H., Hedeker, D. and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346.  
 

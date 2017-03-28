@@ -29,7 +29,7 @@ Returns an intermediate correlation matrix of size n1 x n2
 }
 
 \references{
-Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Communications in Statistics--Simulation and Computation, 46(3), 2241-2253.
 
 Demirtas, H., Hedeker, D. and Mermelstein, R.J. (2012). Simulation of massive public health data by power polynomials. Statistics in Medicine, 31(27), 3337-3346. 
 }

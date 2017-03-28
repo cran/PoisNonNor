@@ -24,7 +24,7 @@ Calculations are done by combining the methods described in Yahav and Shumeli (2
 Returns an intermediate matrix of size n1xn1.
 }
 \references{
-Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Forthcoming in Communications in Statistics--Simulation and Computation.
+Amatya, A. and Demirtas, H. (2017). PoisNor: An R package for generation of multivariate data with Poisson and normal marginals. Communications in Statistics--Simulation and Computation, 46(3), 2241-2253.
 
 Yahav, I. and Shmueli, G. (2012). On generating multivariate poisson data in management science applications. Applied Stochastic Models in Business and Industry, 28(1), 91-102.
 }
