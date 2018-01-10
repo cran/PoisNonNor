@@ -1,14 +1,14 @@
 Package: PoisNonNor
 Type: Package
 Title: Simultaneous Generation of Count and Continuous Data
-Version: 1.3
-Date: 2017-03-28
+Version: 1.4
+Date: 2018-01-10
 Author: Hakan Demirtas, Yaru Shi, Rawan Allozi
 Maintainer: Rawan Allozi <ralloz2@uic.edu>
 Description: Generation of count (assuming Poisson distribution) and continuous data (using Fleishman polynomials) simultaneously. 
 License: GPL-2 | GPL-3
 Depends: graphics, grDevices, stats, utils, BB, corpcor, MASS, Matrix
-Packaged: 2017-03-28 15:23:18 UTC; rawanallozi
+Packaged: 2018-01-10 15:38:01 UTC; rawanallozi
 NeedsCompilation: no
 Repository: CRAN
-Date/Publication: 2017-03-28 16:35:50 UTC
+Date/Publication: 2018-01-10 15:46:05 UTC
