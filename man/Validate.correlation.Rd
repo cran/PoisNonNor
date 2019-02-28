@@ -4,7 +4,7 @@
 Checks the validity of the specified correlation matrix
 }
 \description{
-The function checks the validity of pairwise correlations. Additionally, it checks positive definiteness, symmetry and correctness of the dimensions.
+The function checks the validity of pairwise correlations. Additionally, it checks positive definiteness, symmetry, and correctness of the dimensions.
 }
 \usage{
 Validate.correlation(cmat, pmat = NULL, lamvec = NULL)

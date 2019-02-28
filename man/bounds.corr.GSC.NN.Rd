@@ -15,7 +15,7 @@ a n2x4 matrix where each row includes the four coefficients (a,b,c,d) of the Fle
 }
 }
 \details{
-The approximate correlation bounds are computed via the 'Generate, Sort and Correlate' (GSC) technique, proposed by Demirtas and Hedeker (2011).
+The approximate correlation bounds are computed via the 'Generate, Sort, and Correlate' (GSC) technique, proposed by Demirtas and Hedeker (2011).
 }
 \value{
 Returns a list with two components

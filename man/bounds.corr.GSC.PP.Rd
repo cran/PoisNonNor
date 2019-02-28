@@ -15,7 +15,7 @@ a vector of lambda values of length n1.
 }
 }
 \details{
-The approximate correlation bounds are computed via the 'Generate, Sort and Correlate' (GSC) technique, proposed by Demirtas and Hedeker (2011).
+The approximate correlation bounds are computed via the 'Generate, Sort, and Correlate' (GSC) technique, proposed by Demirtas and Hedeker (2011).
 }
 \value{
 Returns a list with two components, both are matrices of size n1xn1. 

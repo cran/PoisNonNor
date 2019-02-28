@@ -1,4 +1,5 @@
-\name{RNG_P_NN}
+\name{RNG.P.NN}
+\alias{RNG.P.NN}
 \alias{RNG_P_NN}
 \title{
 Simultaneously generates count and continuous data
@@ -7,7 +8,8 @@ Simultaneously generates count and continuous data
 This function simulates count and continuous data, where the count part is assumed to follow a multivariate Poisson distribution and the continuous part can take any shape allowed by the Fleishman polynomials. A correlation matrix and marginal features (rate parameter for the count variables, and skewness and kurtosis parameters for the continuous variables must be supplied by users).
 }
 \usage{
-RNG_P_NN(lamvec, cmat, rmat, norow, mean.vec, variance.vec)
+RNG.P.NN(lamvec, cmat, rmat, norow, mean.vec, variance.vec) 
+RNG_P_NN(lamvec, cmat, rmat, norow, mean.vec, variance.vec) #Deprecated
 }
 
 \arguments{
@@ -67,6 +69,6 @@ norow=10e+5
 mean.vec=c(1,0.5,100)
 variance.vec=c(1,0.02777778,1000)
 
-P_NN_data = RNG_P_NN(lamvec, cmat, rmat, norow, mean.vec, variance.vec)
+P_NN_data = RNG.P.NN(lamvec, cmat, rmat, norow, mean.vec, variance.vec)
 }
 }
