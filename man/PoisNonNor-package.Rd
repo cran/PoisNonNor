@@ -6,14 +6,14 @@
 Simultaneous generation of count and continuous data with Poisson and continuous marginals
 }
 \description{
-A package for simulating multivariate data with count and continuous variables with a pre-specified correlation matrix and marginal distribution. The count variables are assumed to have Poisson distribution, and continuous variables can take any shape that is allowed by the Fleishman polynomials. This mixed data generation scheme is a combination of the normal to anything principle for the count part, and multivariate continuous data generation mechanism via the Fleishman polynomials.
+A package for simulating multivariate data with count and continuous variables with a pre-specified correlation matrix and marginal distributions. The count variables are assumed to have Poisson distribution, and continuous variables can take any shape that is allowed by the Fleishman polynomials. This mixed data generation scheme is a combination of the normal to anything principle for the count part, and multivariate continuous data generation mechanism via the Fleishman polynomials.
 }
 \details{
 \tabular{ll}{
 Package: \tab PoisNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.6\cr
-Date: \tab 2019-02-27\cr
+Version: \tab 1.6.1\cr
+Date: \tab 2019-05-15\cr
 License: \tab GPL-2 | GPL-3\cr
 }
 This package consists of eleven functions. 
