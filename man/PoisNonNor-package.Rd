@@ -12,8 +12,8 @@ A package for simulating multivariate data with count and continuous variables w
 \tabular{ll}{
 Package: \tab PoisNonNor\cr
 Type: \tab Package\cr
-Version: \tab 1.6.2\cr
-Date: \tab 2020-05-02\cr
+Version: \tab 1.6.3\cr
+Date: \tab 2021-03-21\cr
 License: \tab GPL-2 | GPL-3\cr
 }
 This package consists of eleven functions. 
